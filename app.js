@@ -25,7 +25,7 @@ function clickHandler() {
 
 function errorHandler(error) {
 
-    // console.log("error occured", error)
+    console.log("error occured", error)
     alert("Something wrong with server! Try again after some time");
 
 }
